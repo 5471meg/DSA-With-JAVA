@@ -13,5 +13,9 @@ public class InputDemo {
         System.out.println(number);
         float price=sc.nextFloat();
         System.out.println(price);
+        long salary=sc.nextLong();
+        System.out.println(salary);
+        double balance=sc.nextDouble();
+        System.out.println(balance);
     }
 }
