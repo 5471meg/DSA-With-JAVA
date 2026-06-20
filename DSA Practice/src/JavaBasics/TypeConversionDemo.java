@@ -8,4 +8,3 @@ public class TypeConversionDemo {
         System.out.printf("%.2f",number);
     }
 }
-5
