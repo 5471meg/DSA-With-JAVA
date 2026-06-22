@@ -1,4 +1,4 @@
-package JavaBasics;
+package VariablesAndDataType;
 
 public class JavaBoilerplate {
     public static void main(String[] args){

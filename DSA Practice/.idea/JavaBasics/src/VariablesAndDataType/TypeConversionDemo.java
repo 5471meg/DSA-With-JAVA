@@ -1,4 +1,4 @@
-package JavaBasics;
+package VariablesAndDataType;
 import java.util.Scanner;
 public class TypeConversionDemo {
     public static void main(String[] args) {

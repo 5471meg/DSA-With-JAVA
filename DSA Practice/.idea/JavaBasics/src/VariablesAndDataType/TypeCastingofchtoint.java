@@ -1,4 +1,4 @@
-package JavaBasics;
+package VariablesAndDataType;
 
 public class TypeCastingofchtoint {
     public static void main(String[] args) {
