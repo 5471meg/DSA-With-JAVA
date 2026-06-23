@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class VariableTypeDemo {
     public static void main(String[] args) {
-        byte b = 8;
+        byte b = 5;
         System.out.println(b);
         char ch = 'a';
         System.out.println(ch);
@@ -16,7 +16,7 @@ public class VariableTypeDemo {
         System.out.println(number);
         //long
         //double
-        short n = 333;
+        short n = 222;
         System.out.println(n);
 
 
