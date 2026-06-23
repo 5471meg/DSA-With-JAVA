@@ -1,4 +1,4 @@
-package PracticeOfVariableAndDataType;
+package Practice1;
 import java.util.Scanner;
 public class AverageCalc {
     public static void main(String[] args) {
