@@ -6,5 +6,6 @@ public class UnaryOperator {
         int b=++a;//pre increment
         System.out.println(a);
         System.out.println(b);
+
     }
 }
