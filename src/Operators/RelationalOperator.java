@@ -6,6 +6,12 @@ public class RelationalOperator {
         int b=10;
         System.out.println(a == b);
         System.out.println(a != b);
+        int A=10;
+        int B=5;
+        System.out.println(A > B);
+        System.out.println(A < B);
+        System.out.println(a >= b);
+        System.out.println(a <= b);
 
     }
 }
